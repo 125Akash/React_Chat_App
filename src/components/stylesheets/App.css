@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    font-size: 14px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  .link-tag {
+    text-decoration: none;
+  }
+  /* media queries */
+  .right-sidebar {
+    padding: 0;
+    background-color: #db188a3a;
+    background-image: url(../../images/background.jpg);
+  }
+  .left-sidebar {
+    background-color: rgb(28, 197, 219);
+  }
