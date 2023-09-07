@@ -32,9 +32,10 @@ Start the development server : npm start
 Build the development file : npm run build
 
 
-Hosted Website Link :
+Hosted Website Link :https://chataappreact.netlify.app/#/
 
 Technologies Used :-
+
 React
 
 React Router
